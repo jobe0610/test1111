@@ -8,5 +8,6 @@ int main(int argc, char** argv)
 	std::string s("john carlos!");
 	print(s);
 	std::cout << "dayum..." << std::endl;
+	std::cout << ":)" << std::endl;
 	return x;
 }
